@@ -1,8 +1,7 @@
-# Python Learning Journey
+⭐ Currently Learning Python Daily
 <br>
 ## Topics Covered
 
-- Variables
 - Strings
 - Lists
 - Tuples
