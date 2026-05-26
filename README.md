@@ -6,6 +6,5 @@
 - Lists
 - Tuples
 - Dictionaries
-- Functions
-- Recursion
-- OOP
+- Sets
+- 
