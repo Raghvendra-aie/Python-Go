@@ -13,3 +13,4 @@ a = input("Enter the word :")
 print("next line today")
 
 print("day to is end of nothing do in a day")
+
