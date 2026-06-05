@@ -3,6 +3,8 @@ Subject = {
     "java" ,"python" , "java" , "c++" , "c"
 }
 
-Subject.pop["Python"]
+
 print(Subject)
+
+print("hello subset")
 
