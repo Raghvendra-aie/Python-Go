@@ -7,7 +7,12 @@ genre = input("Enter The genre :")
 
 a = input("Enter the actor name:")
 
+b = input("Enter one movie name:")
+
 list.append(genre)
 list.append(a)
+list.append(b)
+
+
 
 print(list)
