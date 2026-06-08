@@ -7,4 +7,4 @@ if (num % 2 == 0 ):
 else:
     print("ODD")
 
-print("Thank You")
+print("Thank You , for viwing")
