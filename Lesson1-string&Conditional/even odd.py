@@ -7,6 +7,5 @@ if (num % 2 == 0 ):
 else:
     print("ODD")
  
-print()
-print("Thank You , for viwing 😊")
-print()
+
+print("Thank You , for viwing 😊 ;")
