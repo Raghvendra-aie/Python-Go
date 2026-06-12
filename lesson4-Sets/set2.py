@@ -1,10 +1,10 @@
-Subjects = {
+Subject = {
     "python" , "java" , "c++" , "javascript" ,
     "java" ,"python" , "java" , "c++" , "c"
 }
 
 
-print(Subjects)
+print(Subject)
 print()
 
 print("hello subset")
