@@ -7,4 +7,4 @@
 - Tuples
 - Dictionaries
 - Sets
-- Loops 
+- Loops--> for loops , While loops
