@@ -8,3 +8,4 @@
 - Dictionaries
 - Sets
 - Loops--> for loops , While loops
+- Functions 
