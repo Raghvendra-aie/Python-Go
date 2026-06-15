@@ -4,7 +4,8 @@ mean = {
     "Cat" :  "a type of animal" ,
     "car" : "vehical",
     "Delhi" : "Place",
-    "HP" : "Computer brand"
+    "HP" : "Computer brand",
+    "BMW" : "Car brand"
 }
 
 print(mean)
