@@ -3,7 +3,8 @@ mean = {
     "Table" : "a piece of furniture",
     "Cat" :  "a type of animal" ,
     "car" : "vehical",
-    "Delhi" : "Place"
+    "Delhi" : "Place",
+    "HP" : "Computer brand"
 }
 
 print(mean)
