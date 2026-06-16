@@ -5,7 +5,9 @@ mean = {
     "car" : "vehical",
     "Delhi" : "Place",
     "HP" : "Computer brand",
-    "BMW" : "Car brand"
+    "BMW" : "Car brand",
+    "Samsung" : "Electronics brand",
+    "Google" : "Technology company"
 }
 
 print(mean)
