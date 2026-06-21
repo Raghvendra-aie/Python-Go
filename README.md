@@ -7,5 +7,5 @@
 - Tuples
 - Dictionaries
 - Sets
-- Loops--> for loops , While loops
-- Function --> Parameter , Argument 
+- Loops--> for loops , While loops , range
+- Function --> Parameter , Argument , 
