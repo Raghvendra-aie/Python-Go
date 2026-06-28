@@ -1,3 +1,5 @@
+#WAP to count how many even number lie in 1 to 50
+
 count = 0
 
 for i in range(1,51):
