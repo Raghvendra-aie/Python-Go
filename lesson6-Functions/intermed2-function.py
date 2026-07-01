@@ -1,7 +1,11 @@
 #WAF to convert USD to INR.
 
-def converter(usd_val):
-    inr_val = usd_val * 94.53 #-----> as June 22 2026
-    print("USD =" ,usd_val, "INR =" ,inr_val,)
+def val_usd(usd):
+    INR = (usd*95.11) #------> as 7/1/2026
+    print(INR)
 
-converter(99)
+usd = int(input("Enter the USD : "))
+
+
+val_usd(usd)
+
