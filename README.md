@@ -8,4 +8,5 @@
 - Dictionaries
 - Sets
 - Loops--> for loops , While loops , range ,pass
-- Function --> Parameter , Argument , 
+- Function --> Parameter , Argument 
+- File I/O 
