@@ -2,7 +2,7 @@
 
 with open("Poem.txt","w") as f:
     f.write("THE ROAD NOT TAKEN\n")
-    f.write("                    ~Robert Forst\n")
+    f.write("           ~Robert Forst\n")
     f.write("Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\n")
     f.write("And be one traveler,long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth,\n")
 
