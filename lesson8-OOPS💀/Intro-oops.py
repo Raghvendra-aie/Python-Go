@@ -4,7 +4,7 @@
 #---> A class is a blueprint for creating an object
 
 class Student:
-    name = "raghvendra"
+    name = "ragh"
 
 s1 = Student()
 print(s1.name)
