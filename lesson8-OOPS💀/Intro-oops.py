@@ -3,6 +3,7 @@
 #what is class
 #---> A class is a blueprint for creating an object
 
+
 class Car:
     color = "white" 
     brand = "Audi"
@@ -15,11 +16,14 @@ class Car2:
 
 #Creating Objects(Instances)
 
+print("-----Car 1 Information-----")
+
 car1 = Car()
 print(car1.brand)
 print(car1.model)
 print(car1.color)
 
+print("-----Car 2 Information-----")
 
 car2 = Car2()
 print(car2.brand)
